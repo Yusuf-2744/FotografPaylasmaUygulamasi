@@ -1,0 +1,15 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+
+# CocoaPods (Kütüphanelerin GitHub'a yüklenmemesi için)
+Pods/
+
+# Firebase (API anahtarlarını ve proje detaylarını gizlemek istersen)
+GoogleService-Info.plist
+
+# Mac
+.DS_Store
